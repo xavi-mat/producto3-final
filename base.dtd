@@ -1,0 +1,53 @@
+<!ELEMENT contenido (tema+)>
+<!ATTLIST contenido
+  xmlns CDATA #FIXED ''>
+
+<!ELEMENT tema (texto?,subtema*)>
+<!ATTLIST tema
+  xmlns CDATA #FIXED ''
+  titulo CDATA #REQUIRED
+  id CDATA #REQUIRED>
+
+<!ELEMENT subtema (texto?,apartado*)>
+<!ATTLIST subtema
+  xmlns CDATA #FIXED ''
+  titulo CDATA #REQUIRED
+  id CDATA #REQUIRED>
+
+<!ELEMENT apartado (texto?,subapartado*)>
+<!ATTLIST apartado
+  xmlns CDATA #FIXED ''
+  titulo CDATA #REQUIRED
+  id CDATA #REQUIRED>
+
+<!ELEMENT subapartado (texto)>
+<!ATTLIST subapartado
+  xmlns CDATA #FIXED ''
+  titulo CDATA #REQUIRED
+  id CDATA #REQUIRED>
+
+<!ELEMENT texto (#PCDATA|saltolinea|code|codeblock|lista|negrita|cursiva|enlace|tabla)*>
+<!ATTLIST texto
+  xmlns CDATA #FIXED ''>
+
+<!ELEMENT saltolinea EMPTY>
+
+<!ELEMENT code (#PCDATA)>
+
+<!ELEMENT codeblock (#PCDATA)>
+
+<!ELEMENT lista (item+)>
+<!ELEMENT item (#PCDATA|negrita|cursiva|code|codeblock|saltolinea|tabulador)*>
+
+<!ELEMENT negrita (#PCDATA)>
+
+<!ELEMENT cursiva (#PCDATA)>
+
+<!ELEMENT enlace (#PCDATA)>
+<!ATTLIST enlace
+  xmlns CDATA #FIXED ''
+  referencia CDATA #REQUIRED>
+
+<!ELEMENT tabla (fila+)>
+<!ELEMENT fila (celda+)>
+<!ELEMENT celda (#PCDATA|negrita|cursiva)*>

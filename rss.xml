@@ -1,0 +1,506 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0">
+  <channel>
+    <title>Curso XML - Quantum Data</title>
+    <link>http://localhost:8000/html.html</link>
+    <description>Curso de XML elaborado por Quantum Data.</description>
+    <language>es</language>
+    <item>
+      <title>a. ¿Qué son los lenguajes de marcas?</title>
+      <link>http://localhost:8000/html.html#1_a</link>
+      <description>
+    Es aquel que permite representar información que contiene, además de los datos propiamente dichos, marcas o etiquetas que indican cómo se estructuran estos datos, su significado o cómo debe representarse desde un punto de vista gráfico o visual. No son lenguajes de programación, es decir no contienen instrucciones ni implican acciones directas. Son reglas que organizan la información con objeto de dar una estructura uniforme y facilitar su procesamiento automático.
+
+    Se distinguen:
+    Lenguajes orientados a la presentación de informaciónLenguajes orientados al almacenamiento y proceso de información.
+    </description>
+      <guid>http://localhost:8000/html.html#1_a</guid>
+    </item>
+    <item>
+      <title>b. Ejemplos de lenguajes de marcas</title>
+      <link>http://localhost:8000/html.html#1_b</link>
+      <description>La web y las aplicaciones desarrolladas sobre la tecnología de internet, supuso un importante incremento en el uso de los lenguajes de marcas, tanto para representar información como para intercambiar datos entre sistemas. Los lenguajes de marcas poseen una utilidad importante, como puede ser la configuración de aplicaciones o la definición de interfaces gráficas de usuario.</description>
+      <guid>http://localhost:8000/html.html#1_b</guid>
+    </item>
+    <item>
+      <title>i. HTML</title>
+      <link>http://localhost:8000/html.html#1_b_i</link>
+      <description>Es el lenguaje de marcas más conocido y utilizado, y el W3C se encarga de su mantenimiento y estandarización. La versión HTML5 se publicó en octubre de 2014 y supuso un cambio radical y muy exitoso en el lenguaje. El objetivo principal es proporcionar un mecanismo para diseñar páginas web que van a ser presentadas en un navegador, ya sea este ejecutado en un ordenador, en una videoconsola o en un dispositivo móvil. Para el diseño gráfico cuenta con una capacidad ilimitada de elementos de maquetación gracias al uso conjunto con las hojas de estilo en cascada (CSS). W3C World Wide Web Consortium, fue creado en octubre de 1994, con el objetivo de definir estándares para internet. La extensión de sus ficheros HTML suele ser, .html o .htm.</description>
+      <guid>http://localhost:8000/html.html#1_b_i</guid>
+    </item>
+    <item>
+      <title>ii. XML</title>
+      <link>http://localhost:8000/html.html#1_b_ii</link>
+      <description>
+      El lenguaje de marcado extensible es el lenguaje de intercambio de información entre sistemas por excelencia. Se dice que XML es para los sistemas el equivalente a HTML para los humanos. Puede servir para almacenar la configuración de una aplicación, los mejores marcadores de un videojuego, el diseño de una interfaz de usuario o la información de un gráfico vectorial. La primera versión salió en 1998, al igual que HTML, una especificación del W3C y se define como "de propósito general". Esto significa que es un metalenguaje al venir definido por reglas y no por etiquetas concretas.
+
+      La extensión de sus ficheros XML suele ser .xml
+    </description>
+      <guid>http://localhost:8000/html.html#1_b_ii</guid>
+    </item>
+    <item>
+      <title>iii. XHTML</title>
+      <link>http://localhost:8000/html.html#1_b_iii</link>
+      <description>
+      Se puede definir de manera simplificada como la versión en formato XML del lenguaje de marcas HTML. Se presentó en el año 2000 como una recomendación del W3C.
+
+      XHTML tiene la misma relación con XML que HTML con SGML. Tanto HTML como XHTML surgen a partir de un metalenguaje y ambos son lenguajes de marcado para el desarrollo de las páginas web.
+    </description>
+      <guid>http://localhost:8000/html.html#1_b_iii</guid>
+    </item>
+    <item>
+      <title>iv. SVG</title>
+      <link>http://localhost:8000/html.html#1_b_iv</link>
+      <description>Scalable Vector Graphics o gráficos vectoriales escalables, es un dialecto de XML. Se utiliza para representar gráficos vectoriales de dos dimensiones. La extensión de los ficheros SVG suele ser .svg o .svgz.</description>
+      <guid>http://localhost:8000/html.html#1_b_iv</guid>
+    </item>
+    <item>
+      <title>v. MathML</title>
+      <link>http://localhost:8000/html.html#1_b_v</link>
+      <description>Mathematical Markup Language o lenguaje de marcado matemático, es un dialecto de XML. Se utiliza para representar notaciones matemáticas.</description>
+      <guid>http://localhost:8000/html.html#1_b_v</guid>
+    </item>
+    <item>
+      <title>vi. NewsML</title>
+      <link>http://localhost:8000/html.html#1_b_vi</link>
+      <description>NewsML (News Markup Language o lenguaje de marcado de noticias) es un dialecto XML. Se utiliza para representar noticias electrónicas.</description>
+      <guid>http://localhost:8000/html.html#1_b_vi</guid>
+    </item>
+    <item>
+      <title>vii. FXML</title>
+      <link>http://localhost:8000/html.html#1_b_vii</link>
+      <description>Es un dialecto de xml. Se emplea para representar las interfaces de usuario en la tecnología JavaFX del lenguaje de programación Java.</description>
+      <guid>http://localhost:8000/html.html#1_b_vii</guid>
+    </item>
+    <item>
+      <title>viii. XAML</title>
+      <link>http://localhost:8000/html.html#1_b_viii</link>
+      <description>XAML (eXtensible Application Markup Language o lenguaje de marcado extensible de aplicación). Es un dialecto de XML. Es el lenguaje en el que se definen las interfaces de usuario en las aplicaciones para el sistema operativo Windows desarrolladas con la tecnología de Microsoft.</description>
+      <guid>http://localhost:8000/html.html#1_b_viii</guid>
+    </item>
+    <item>
+      <title>ix. Android</title>
+      <link>http://localhost:8000/html.html#1_b_ix</link>
+      <description>En las aplicaciones de Android, la forma habitual de diseñar las interfaces de usuario es mediante ficheros escritos en dialecto de XML. En estos ficheros se definen los esquemas de distribución, así como los componentes y sus características que van a permitir al usuario interactuar con la aplicación.</description>
+      <guid>http://localhost:8000/html.html#1_b_ix</guid>
+    </item>
+    <item>
+      <title>x. Servicios Web</title>
+      <link>http://localhost:8000/html.html#1_b_x</link>
+      <description>
+      Un servicio web (web services) es un componente software alojado en un servidor al que se accede utilizando protocolos estándares y tecnologías de la web como HTTP, HTTPS, XML o JSON.
+
+      Los denominados servicios RESTful (también llamados REST) utilizan con frecuencia dialectos de XML (en otras muchas ocasiones usan JSON) para el intercambio de información entre los dos puntos de la comunicación.
+    </description>
+      <guid>http://localhost:8000/html.html#1_b_x</guid>
+    </item>
+    <item>
+      <title>xi. RSS y Atom</title>
+      <link>http://localhost:8000/html.html#1_b_xi</link>
+      <description>Tanto RSS (Really Simple Syndication o Sindicación realmente simple) como Atom son dialectos de XML. Se utilizan para la distribución de contenidos de fuentes a los que los usuarios se han suscrito previamente, siendo Atom una alternativa a RSS creado con posterioridad.</description>
+      <guid>http://localhost:8000/html.html#1_b_xi</guid>
+    </item>
+    <item>
+      <title>xii. XSL</title>
+      <link>http://localhost:8000/html.html#1_b_xii</link>
+      <description>XSL (eXtensible Stylesheet Language o lenguaje de hojas de estilo extensible) es una especificación del W3C utilizada para transformar y manipular documentos XML. Permite indicar cómo ha de presentarse la información contenida en un documento XML.</description>
+      <guid>http://localhost:8000/html.html#1_b_xii</guid>
+    </item>
+    <item>
+      <title>a. Definición de XML</title>
+      <link>http://localhost:8000/html.html#2_a</link>
+      <description>
+    Es un lenguaje de marcado que define un conjunto de reglas para codificar documentos. El lenguaje XML proporciona una plataforma para definir elementos para crear formatos y generar lenguaje personalizado.
+
+    El archivo XML se divide en dos partes: prolog y body. El prolog consta de metadatos de gestión, como declaraciones XML, instrucciones de procesamiento opcionales, declaraciones de tipo de documento y comentarios. Por otro lado, el cuerpo consta de dos partes: estructura y contenido (presente en texto simple).
+
+    El diseño XML se centra en la simplicidad, la versatilidad y la facilidad de uso, por lo que se utiliza en varios servicios web. Tanto es así que existen sistemas diseñados para ayudar a definir lenguajes basados en XML y API para ayudar a procesar datos XML, que no deben confundirse con HTML.
+
+    </description>
+      <guid>http://localhost:8000/html.html#2_a</guid>
+    </item>
+    <item>
+      <title>b. Utilidades de XML</title>
+      <link>http://localhost:8000/html.html#2_b</link>
+      <description>
+    Algunos de sus usos más extendidos son:
+
+
+        Intercambiar datos entre sistemas:
+        uno de los objetivos básicos de XML es permitir que los datos se intercambien entre diferentes sistemas de forma estructurada. Como formato de texto plano y lenguaje estandarizado, hace que esta transmisión sea muy flexible e independiente de la plataforma utilizada.
+
+        Base de datos:
+        uno de los objetivos básicos de XML es permitir que los datos se intercambien entre diferentes sistemas de forma estructurada. Como formato de texto plano y lenguaje estandarizado, hace que esta transmisión sea muy flexible e independiente de la plataforma utilizada.
+
+        Convertir:
+        actualmente son muchos los formatos que ofrecen servicios de conversión a XML, como PDF, HTML, .text, .docx o XHTML
+
+    </description>
+      <guid>http://localhost:8000/html.html#2_b</guid>
+    </item>
+    <item>
+      <title>c. Estructura de documentos XML</title>
+      <link>http://localhost:8000/html.html#2_c</link>
+      <description>
+    XML es una estructura para definir lenguajes, por eso se afirma que XML es un
+    metalenguaje
+    .
+
+    Como el objetivo de los documentos XML es transportar datos con su significado, cada documento XML debe hacer referencia a dos realidades, los datos y los significados. Los datos serán textos simples incluidos en el documento XML pero, ¿cómo reconoce el ordenador el significado de esos datos?
+
+    Pongamos un ejemplo: el número 15 es un dato, pero por sí mismo no está asociado a ningún significado. Podría tratarse de 15 años, 15 kilos, 15 euros, etc. El lenguaje (o metalenguaje) XML usa «etiquetas» para indicar el significado de un dato, por ejemplo:
+    &lt;edad&gt;15&lt;/edad&gt;
+    . Las etiquetas de apertura
+    &lt;edad&gt;
+    y de cierre
+    &lt;/edad&gt;
+    son las que indican el significado del dato 15.
+
+    Otro ejemplo, con etiquetas anidadas:
+    &lt;mensaje&gt; &lt;emisor&gt;Juan&lt;/emisor&gt; &lt;destinatario&gt;Pepa&lt;/destinatario&gt; &lt;titulo&gt;¡Hola!&lt;/titulo&gt; &lt;cuerpo&gt;Hola, ¿qué tal?&lt;/cuerpo&gt; &lt;/mensaje&gt;
+    Las etiquetas indican con claridad que se trata de un mensaje, que tiene un emisor y un destinatario, un título y un cuerpo. Este ejemplo tiene lógica interna, pero podrían hacerse con muchas variantes. ¿Es obligatorio que cada mensaje tenga esos cuatro elementos? ¿Podría tener algún otro elemento opcional, como «adjunto»? ¿Podría tener varios destinatarios? ¿Podría tener varios emisores? ¿El orden debe ser estricto?
+
+    Como XML está diseñado para compartir información (datos con su significado) y para ello utiliza etiquetas, es necesario definir de alguna manera
+    las etiquetas que pueden existir en un determinado documento y las reglas que deben seguir esas etiquetas
+    (orden, anidamiento, atributos, obligatoridad u opcionalidad, etc.). La persona o el equipo que diseña cómo se debe intercambiar la información es también quien debe diseñar todas esas reglas. Para ello se utiliza la DTD.
+    </description>
+      <guid>http://localhost:8000/html.html#2_c</guid>
+    </item>
+    <item>
+      <title>i. ¿Qué es DTD?</title>
+      <link>http://localhost:8000/html.html#2_c_i</link>
+      <description>
+      La DTD («Definición del Tipo de Documento» o «Document Type Definition») es el conjunto de reglas que debe cumplir un documento XML para poder ser utilizado en un determinado contexto de transmisión de información. La DTD explica los significados que tendrán los datos, para ello define todas las características del documento.
+
+      Una DTD describe la estructura de los documentos XML mediante cuatro tipos de declaraciones: elementos, atributos, entidades y notaciones.
+
+      Los principales son los elementos y los atributos, que definen qué etiquetas se pueden utilizar en el documento XML.
+
+      Las normas de la DTD indican qué etiquetas se pueden anidar dentro de otras y en qué orden, qué nivel del obligatoriedad u opcionalidad tiene cada etiqueta y qué cantidad de etiquetas pueden o deben aparecer. También indican, entre otras cosas, los atributos que una etiqueta permite y sus tipos.
+
+      El documento XML hace referencia a la DTD en la que está basado mediante la etiqueta
+      &lt;!DOCTYPE&gt;
+      . Los documentos XML se utilizan para transmitir información entre programas o dispositivos, para ello, antes se deben poner de acuerdo, utilizando la DTD, en las normas que determinado documento XML debe seguir. Ambos programas o equipos deben poder acceder a la DTD para poder construir, leer y validar el documento XML en cuestión.
+
+      El documento XML puede hacer referencia a la DTD de dos formas: por un lado, el mismo documento XML puede contener, al inicio, las normas de la DTD; por otro lado, el documento XML puede hacer referencia a otro documento externo que es su DTD. Ambas formas se pueden combinar, haciendo referencia a un documento externo y añadiendo más normas en el propio XML.
+
+        Incorporar la DTD dentro del mismo documento XML, en la etiqueta
+        &lt;!DOCTYPE&gt;
+        y entre corchetes []:
+        &lt;!DOCTYPE nombre [ ... declaraciones de la DTD... ]&gt;
+
+        Referencia a una DTD externa usada por una sola aplicación:
+        &lt;!DOCTYPE nombre SYSTEM "referencia_al_documento.dtd"&gt;
+
+        Referencia a una DTD externa utilizada por varias aplicaciones, es decir, pública:
+        &lt;!DOCTYPE nombre SYSTEM "identificador público formal de la DTD" "referencia_al_documento.dtd"&gt;
+
+      El «nombre» es el tipo de documento XML y debe coincidir con el elemento raíz del documento XML.
+    </description>
+      <guid>http://localhost:8000/html.html#2_c_i</guid>
+    </item>
+    <item>
+      <title>ii. Ejemplos de gramáticas DTD</title>
+      <link>http://localhost:8000/html.html#2_c_ii</link>
+      <description>
+      Algunas páginas web pueden utilizar un marcado estricto, en vez del más actual HTML5 (que no sigue exactamente la sintaxis XML aunque comparte muchos criterios con ella).
+
+      Por ejemplo, el
+      HTML 4.01 estricto
+      , pide esta declaración del tipo de documento:
+      &lt;!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01//EN" "http://www.w3.org/TR/html4/strict.dtd"&gt;
+      El XHTML, que es similar al HTML pero sigue la sintaxis XML, tiene, entre otras declaraciones, la siguiente:
+      &lt;!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.1//EN" "http://www.w3.org/TR/xhtml11/DTD/xhtml11.dtd"&gt;
+      La página
+      https://www.w3schools.com/xml/xml_dtd_examples.asp
+      contiene algunos ejemplos breves de DTD, como el siguiente, que se podría utilizar para almacenar y compartir datos sobre artículos en un periódico:
+      &lt;!DOCTYPE newspaper [ &lt;!ELEMENT newspaper (article+)&gt; &lt;!ELEMENT article (headline,byline,lead,body)&gt; &lt;!ELEMENT headline (#PCDATA)&gt; &lt;!ELEMENT byline (#PCDATA)&gt; &lt;!ELEMENT lead (#PCDATA)&gt; &lt;!ELEMENT body (#PCDATA)&gt; &lt;!ATTLIST article author CDATA #REQUIRED&gt; &lt;!ATTLIST article date CDATA #IMPLIED&gt; &lt;!ENTITY NEWSPAPER "Vervet Logic Times"&gt; &lt;!ENTITY PUBLISHER "Vervet Logic Press"&gt; &lt;!ENTITY COPYRIGHT "Copyright 1998 Vervet Logic Press"&gt; ]&gt;
+    </description>
+      <guid>http://localhost:8000/html.html#2_c_ii</guid>
+    </item>
+    <item>
+      <title>iii. Principales elementos de una gramática DTD</title>
+      <link>http://localhost:8000/html.html#2_c_iii</link>
+      <description/>
+      <guid>http://localhost:8000/html.html#2_c_iii</guid>
+    </item>
+    <item>
+      <title>Declaración de elementos</title>
+      <link>http://localhost:8000/html.html#2_c_iii_1</link>
+      <description>
+        Los elementos definen las etiquetas utilizables en el documento XML. Se declaran con la instrucción &lt;!ELEMENT seguida del nombre del elemento y una expresión que indica su contenido.
+
+        Las expresiones para indicar el contenido pueden ser las siguientes:
+        EMPTY Indica que el elemento no tiene contenido.(#PCDATA) Indica que el elemento contiene caracteres.ANY Indica que el elemento puede contener tanto texto como otros elementos.Nombres de otros elementos entre paréntesis, para indicar los elementos que puede o debe contener.
+        Cuando se indican otros elementos en el contenido de un elemento, se deben indicar entre paréntesis. Se utilizan diversas marcas y operadores para indicar si los elementos son opcionales u obligatorios y cuántos elementos son posibles:
+
+        Si dentro del paréntesis aparece un elemento sin ninguna marca, significa que este elemento debe aparecer una vez. &lt;!ELEMENT ejemplo1 (ejemplo2)&gt;Las comas «,» se utilizan para separar varios elementos que deben aparecer en el orden indicado. &lt;!ELEMENT ejemplo1 (ejemplo2, ejemplo3)&gt;La barra vertical «|» («o» lógico) se utiliza para indicar que debe aparecer uno u otro elemento. &lt;!ELEMENT ejemplo1 (ejemplo2|ejemplo3)&gt;El interrogante «?» indica que el elemento es opcional, pero solo puede aparecer una vez. &lt;!ELEMENT ejemplo1 (ejemplo2, ejemplo3?)&gt;El asterisco «*» indica que el elemento es opcional y puede aparecer más de una vez. &lt;!ELEMENT ejemplo1 (ejemplo2, ejemplo3*)&gt;El signo «+» indica que el elemento es obligatorio y puede aparecer más de una vez. &lt;!ELEMENT ejemplo1 (ejemplo2+, ejemplo3)&gt;Con más paréntesis se pueden anidar expresiones. &lt;!ELEMENT ejemplo1 ((eje1|eje2), eje3*, (eje4+|eje5+))&gt;
+        En el ejemplo anterior tomado de w3schools.com se ha declarado:
+        &lt;!ELEMENT headline (#PCDATA)&gt;
+        Es decir, se ha declarado un elemento llamado headline (el «titular» de cada artículo). Como el titular debe contener una cadena de caracteres, se utiliza la expresión (#PCDATA).
+
+        Otro elemento declarado es:
+        &lt;!ELEMENT article (headline,byline,lead,body)&gt;
+        Es decir, se define la etiqueta
+        article
+        que esta vez no debe contener una cadena de caracteres, sino que debe contener diversos elementos (definidos a continuación en la DTD),
+        headline
+        ,
+        byline
+        ,
+        lead
+        y
+        body
+        , por ese orden. De esta forma, se declara que dentro de la etiqueta article se anidarán las otras etiquetas.
+
+        El primer elemento declarado es el siguiente:
+        &lt;!ELEMENT newspaper (article+)&gt;
+        Con el símbolo + se indica que la etiqueta newspaper debe contener al menos una etiqueta article como elemento hijo, pero puede contener más de una.
+      </description>
+      <guid>http://localhost:8000/html.html#2_c_iii_1</guid>
+    </item>
+    <item>
+      <title>Declaración de atributos</title>
+      <link>http://localhost:8000/html.html#2_c_iii_2</link>
+      <description>
+        Dentro de la etiqueta de abertura de un elemento se pueden indicar atributos. Para declarar los atributos en la DTD se utiliza la etiqueta &lt;!ATTLIST&gt;, dentro de la cual se deben indicar, por este orden, el nombre del elemento al cual se aplicará el atributo, el nombre del atributo, el tipo del atributo y cómo debe ser el valor inicial del atributo.
+
+        Es posible definir varios atributos para un mismo elemento por separado (en diversas etiquetas &lt;!ATTLIST&gt; ) o bien agruparlos dentro de una sola.
+
+        Los tipos de atributo posibles son los siguientes:
+        CDATA Indica que el atributo contiene caracteres de cualquier tipo.NMTOKEN Indica que el atributo solo contiene caracteres de los siguientes tipos: letras, dígitos, puntos, guiones, barras bajas y dos puntos.NMTOKENS Como el tipo NMTOKEN pero también admite espacios en blanco.Valores entre paréntesis separados por la barra vertical. Indican que el atributo solo puede contener uno de esos valores. &lt;!ATTLIST ejemplo color (azul|blanco|rojo) #REQUIRED&gt;ID Indica que el valor del atributo debe ser único en todo el documento. De esta manera, se puede identificar un elemento de forma unívoca en todo el documento.IDREF Indica que el valor del atributo debe coincidir con la ID de otro elemento. Es decir, que este elemento hace referencia al otro.IDREFS Indica que el valor del atributo es una serie de valores separados por espacios que coinciden con ID de otros elementos.ENTITY El valor del atributo debe ser alguna entidad definida en la DTD.ENTITIES El valor del atributo es una o más de una entidad de las definidas en la DTD, separadas por espacios.NOTATION El valor del atributo es alguna notación definida en la DTD.
+        Para indica los valores iniciales de los atributos, se utilizan las siguientes palabras clave.
+        Si tan solo hay un valor entre comillas, ese será el predeterminado. La etiqueta en el documento XML podrá especificar otro que sobrescribirá el declarado aquí.#REQUIRED Significa que el atributo es obligatorio, sin especificar ningún valor predeterminado. Se deberá especificar en la etiqueta.#IMPLIED El atributo no es obligatorio.#FIXED "valor" El atributo tiene como valor fijo el que esté especificado entre comillas, en este caso "valor".
+      </description>
+      <guid>http://localhost:8000/html.html#2_c_iii_2</guid>
+    </item>
+    <item>
+      <title>Declaración de entidades y notaciones</title>
+      <link>http://localhost:8000/html.html#2_c_iii_3</link>
+      <description>
+        Las
+        entidades
+        son como «constantes» que se pueden declarar en la DTD y después utilizar en el documento XML. Se declaran con la etiqueta &lt;!ENTITY&gt; seguida de algunos parámetros. El primero es el nombre de la entidad, los siguientes dependen de cómo sea esa entidad.
+
+          Para declarar una entidad interna se da directamente su valor.
+          &lt;!ENTITY NEWSPAPER "Vervet Logic Times"&gt;
+        Para una entidad externa privada se utiliza SYSTEM seguida de la ruta de acceso.Para una entidad externa pública se utiliza PUBLIC y, a continuación, se indica el identificador público formal y la ruta de acceso.
+        Si la entidad externa no es un fichero de texto, se debe añadir la palabra NDATA seguida del tipo de archivo (jpg, png, etc.).
+
+        Las
+        notaciones
+        contienen información que no será analizada por el XML sino por la aplicación que utilice esa información; se utilizan como metadatos adicionales al elemento que usará la notación. Por ejemplo, para definir un renderizador de imágenes svg, se puede usar:
+        &lt;!NOTATION type-image-svg SYSTEM "image/svg"&gt;
+      </description>
+      <guid>http://localhost:8000/html.html#2_c_iii_3</guid>
+    </item>
+    <item>
+      <title>d. Validación documentos XML</title>
+      <link>http://localhost:8000/html.html#2_d</link>
+      <description>XML es un lenguaje con una sintaxis muy simple pero dotado de un importante y muy potente conjunto de herramientas. Las más destacadas son las destinadas a garantizar la correcta estructura de los documentos. Existen reglas que junto a los correspondientes procesadores de XML, permiten garantizar que un documento y los datos almacenados en él están correctamente construidos.</description>
+      <guid>http://localhost:8000/html.html#2_d</guid>
+    </item>
+    <item>
+      <title>i. Herramientas de validación de documentos XML</title>
+      <link>http://localhost:8000/html.html#2_d_i</link>
+      <description>
+      (Los navegadores y la mayoría de los programas que permiten procesar documentos XML validan que estén bien formados y sean correctos. Si el documento contiene algún error, muestran un mensaje que lo indica y señala su ubicación. Las técnicas más populares para definir validaciones son:
+
+        DTD
+        , Document Type Definition. Validación por documentos de definición de tipos. Se utilizaba en el lenguaje SGML y se permite su uso con XML. Es la más utilizada, pero tiene numerosas voces críticas porque su sintaxis no es XML.
+
+        XML Schema
+        o esquemas XML. Mucho más coherente con el lenguaje XML. Es la aconsejada actualmente, pero todavía no tiene una implantación al 100%
+
+        Relax NG
+        . Es una notación sencilla y fácil de aprender que está haciéndose muy popular. No tiene tantas posibilidades como XML Schema, pero tiene una sintaxis más sencilla. Además admite añadir instrucciones de tipo XML Schema por lo que se convierte en una de las formas de validación más completas.
+
+        Schematron
+        . Permite establecer reglas que facilitan establecer las relaciones que han de cumplir los datos de un documento XML. No es tan bueno para establecer el resto de reglas de validación (orden de elementos, tipos de datos...).
+
+    </description>
+      <guid>http://localhost:8000/html.html#2_d_i</guid>
+    </item>
+    <item>
+      <title>e. Transformación de estructuras XML</title>
+      <link>http://localhost:8000/html.html#2_e</link>
+      <description/>
+      <guid>http://localhost:8000/html.html#2_e</guid>
+    </item>
+    <item>
+      <title>i. ¿Que es el lenguaje de transformación XSLT?</title>
+      <link>http://localhost:8000/html.html#2_e_i</link>
+      <description>
+      XSLT (eXtensible Stylesheet Language – Transformations), Es un lenguaje que permite aplicar una transformación a un documento XML para obtener otro documento XML, un documento HTML o un documento de texto plano.
+      El documento XML es el documento inicial a partir del cual se va a generar el resultado.La hoja de estilo XSLT es el documento que contiene el código fuente del programa, es decir, las reglas de transformación que se van a aplicar al documento inicial.El procesador XSLT es el programa de ordenador que aplica al documento inicial las reglas de transformación incluidas en la hoja de estilo XSLT y genera el documento final.ZEl resultado de la ejecución del programa es un nuevo documento (que puede ser un documento XML o no).
+      XSLT se utiliza para obtener a partir de un documento XML otros documentos (XML o no). A un documento XML se le pueden aplicar distintas hojas de estilo XSLT para obtener distintos resultados y una misma hoja de estilo XSLT se puede aplicar a distintos documentos XML. El lenguaje XSLT está normalizado por el W3C, que ha publicado tres versiones de este lenguaje:
+      Noviembre de 1999: XSLT 1.0Enero de 2007: XSLT 2.0junio de 2017: XSLT 3.0Marzo de 2021: XSLT 2.0 (2ª ed)
+    </description>
+      <guid>http://localhost:8000/html.html#2_e_i</guid>
+    </item>
+    <item>
+      <title>iv. Herramientas de transformación con XSLT</title>
+      <link>http://localhost:8000/html.html#2_e_ii</link>
+      <description>Para diseñar hojas de transformaciones XSLT podemos utilizar el software libre XML Copy Editor o cualquier otro software como:</description>
+      <guid>http://localhost:8000/html.html#2_e_ii</guid>
+    </item>
+    <item>
+      <title>Editores XSLT, XML, XSD, HTML, CSS y JavaScript</title>
+      <link>http://localhost:8000/html.html#2_e_ii_1</link>
+      <description>
+        Atom (Software Libre) [Windows / Linux / Mac] (Editor de texto. Extensión para validar documentos locales)Brackets (Software Libre) [Windows / Linux / Mac] (Editor de texto. Extensión para validar documentos locales. Extensión para visor en tiempo real)Notepad++ (Software Libre) [Windows] (Editor de texto)Hyro (Software Libre) [Windows / Linux / Mac] (Editor de texto. Visor en tiempo real)Sublime Text (Shareware) [Windows / Linux / Mac] (Editor de texto. Extensión para validar documentos locales)WebStorm (Shareware) [Windows / Linux / Mac] (Editor de texto)Visual Studio Code (Freeware) [Windows / Linux / Mac] (Editor de texto)Codelobster (Freeware) [Windows / Linux / Mac] (Editor de texto)CSE HTML Validator Lite (Freeware) [Windows] (Editor de texto. Permite validar documentos locales sin conexión a Internet)Kompozer (Software Libre) [Windows / Linux / Mac] (WYSIWYG. Sólo valida documentos publicados en Internet)Bluegriffon (Freeware) [Windows / Linux / Mac] (WYSIWYG)Dreamweaver (Shareware) [Windows] (WYSIWYG. Permite publicar páginas mediante FTP. Valida documentos locales)
+      </description>
+      <guid>http://localhost:8000/html.html#2_e_ii_1</guid>
+    </item>
+    <item>
+      <title>Editores XML</title>
+      <link>http://localhost:8000/html.html#2_e_ii_2</link>
+      <description>
+        XML Copy Editor (Software Libre) Cómo utilizar XML Copy EditorJaxe (Software Libre)Oxygen XML (Shareware)XMLSpy (Shareware)Stylus Studio XML (Shareware)
+      </description>
+      <guid>http://localhost:8000/html.html#2_e_ii_2</guid>
+    </item>
+    <item>
+      <title>Bases de datos XML</title>
+      <link>http://localhost:8000/html.html#2_e_ii_3</link>
+      <description>
+        BaseX (Software Libre)eXistdb (Software Libre)
+      </description>
+      <guid>http://localhost:8000/html.html#2_e_ii_3</guid>
+    </item>
+    <item>
+      <title>iii. Principales instrucciones XSLT</title>
+      <link>http://localhost:8000/html.html#2_e_iii</link>
+      <description>
+
+          Instrucción
+
+          Descripción
+        apply-importsAplica una regla de plantilla de una hoja de estilo importadaapply-templatesAplica una regla de plantilla al elemento actual o a los nodos secundarios del elemento actualattributeAgrega un atributoattribute-setDefine un conjunto de atributos con nombrecall-templateLlama a una plantilla con nombre
+    </description>
+      <guid>http://localhost:8000/html.html#2_e_iii</guid>
+    </item>
+    <item>
+      <title>f. Ejemplos de lenguajes basados en XML</title>
+      <link>http://localhost:8000/html.html#2_f</link>
+      <description/>
+      <guid>http://localhost:8000/html.html#2_f</guid>
+    </item>
+    <item>
+      <title>i. XHTML</title>
+      <link>http://localhost:8000/html.html#2_f_i</link>
+      <description/>
+      <guid>http://localhost:8000/html.html#2_f_i</guid>
+    </item>
+    <item>
+      <title>1. ¿Qué es xHTML?</title>
+      <link>http://localhost:8000/html.html#2_f_i_1</link>
+      <description>
+        XHTML (extensible HyperText Markup Language)
+        es un lenguaje de marcas que se diseñó como una extensión del HTML con el fin de estructurar este lenguaje para poder adaptarse como xml.
+
+        El documento al estructurarse al xhtml se hace legible para un analizador. Así el analizador podrá interpretar los elementos de marcado especificados en la definición de HTML y reproducir los elementos de marcado especificados en la definición de XHTML, reproduciendo el contenido de estos últimos de una manera específica. El usuario ve el contenido de los elementos, sin ver la forma en que se anotan o estructuran los documentos.
+
+        Estructura
+
+        El marco básico de un archivo XHTML se componen de una serie de elementos que deben ajustarse exactamente a las reglas para que sea válido y pueda ser leído por el navegador.
+
+        El documento debe ser validado con una de las tres definiciones de tipos de documentos (DTD):
+
+
+          Estricto
+          Como su nombre indica se trata de la variante con las normas más estrictas y las restricciones más severas. Las páginas web que incluyan este tipo de documento, no pueden utilizar atributos relacionados con el aspecto de los contenidos, por lo que requiere una separación total de código HTML y estilos CSS.
+
+          Transicional
+          Se trata de una variante menos estricta que la anterior, ya que permite el uso de algunos atributos HTML relacionados con el aspecto de los elementos.
+
+          Frameset
+          Esta última variante la utilizan las páginas que están formadas por frames, una práctica completamente desaconsejada y que hoy en día sólo utilizan los sitios web obsoletos.
+
+        Todos los elementos del documento deben contener una estructura coherente para poder ser interpretado correctamente:
+        Deben tener una etiqueta de cierre -incluso las etiquetas únicas de HTML-.Deben estar anidados en el orden correcto.Además solo se permite escribirse en minúscula.Todos los valores deben ir entrecomillados,siendo necesario que se utilice el mismo tipo de comillas en el documento (“” o ‘’).
+        Cronología
+
+        XHTML 1.0 fueron publicadas por el W3C en 2002.
+
+        XHTML 2.0 se suspendió en 2009 debido a que el Grupo de Trabajo de Tecnología de Aplicación de Hipertexto Web (WHATTWG) de la W3C suspendió su realización debido a que estaban trabajando al mismo tiempo en HTML5 que prevaleció sobre este.
+      </description>
+      <guid>http://localhost:8000/html.html#2_f_i_1</guid>
+    </item>
+    <item>
+      <title>2. Utilidades</title>
+      <link>http://localhost:8000/html.html#2_f_i_2</link>
+      <description>(respecto al HTML 4 y anteriores versiones) • Ser visualizados, editados y validados con herramientas XML. • Pueden usar aplicaciones en el ámbito web, como scripts o applets por ejemplo. • Permite ser usada en distintas plataformas y distintos dispositivos, sin la necesidad de desarrollar soluciones adicionales.</description>
+      <guid>http://localhost:8000/html.html#2_f_i_2</guid>
+    </item>
+    <item>
+      <title>ii. RSS / ATOM</title>
+      <link>http://localhost:8000/html.html#2_f_ii</link>
+      <description/>
+      <guid>http://localhost:8000/html.html#2_f_ii</guid>
+    </item>
+    <item>
+      <title>1. ¿Qué es RSS o Atom?</title>
+      <link>http://localhost:8000/html.html#2_f_ii_1</link>
+      <description>
+        Tanto RSS como Atom son dos formatos de redifusion de contenidos web.
+
+        Cronología
+
+        Rich Site Summary (RSS 0.91 extensión .xml) RDF Site Summary (RSS 1.0 i RSS 0.90 extensión .xml) Really Simple Syndication (RSS 2.0 extensión .xml) Atom Syndication Format (Atom extensión .atom ; .xml)
+
+        RSS
+
+        (Really Simple Syndication) es el primer formato de distribución de contenido web que se creó (por lo que suele ser habitual mezclar ambos términos como el mismo). Dan un servicio de acceso a las actualizaciones del contenido de los sitios web a través de un fichero en formato estandarizado basado en xml. Así el lector RSS descarga el fichero -feed- y muestra el contenido y elementos gráficos facilitando su lectura. Cada feed o archivo RSS contiene una serie de entradas -ítems- que contienen un título, resumen y enlace a la página web original -también pudiendo contener otra información como la fecha de publicación o el autor del texto.
+
+        ATOM
+
+        surgió como alternativa a RSS debido a que había muchas incompatibilidades y varias versiones que hizo que se volvieran lo suficientemente interoperables. Los partidarios de desarrollar un nuevo estándar crearon el IETF Atom Publishing Format and Protocol, que trabajarían en la redifusión de este nuevo formato.
+
+        Estructura
+
+        Para poder crear un feed de RSS (o atom) necesitamos tener un archivo normalizado xml que debe llamarse feed.xml.
+
+        En el archivo se escribe el encabezamiento con la versión de xml y rss que se va a usar, además de su codificación de lengua.
+
+        Mediante las etiquetas &lt;channel&gt; &lt;/channel&gt; elaboramos la descripción del feed. Hay etiquetas obligatorias como title, link y description. Las etiquetas opcionales son language, copyright, atom:link, docs, generator, managingEditor, webMaster y image.
+
+        Mediante las etiquetas &lt;item&gt; &lt;/item&gt; se elabora la descripción de cada entrada que se realice. Las etiquetas que se pueden usar son title, link, description, category, dc:creator, pubDate y guid.
+
+        Finalmente se debe enlazar el archivo del feed a la página web. Los usuarios tenemos dos formas principales de poder ver estos contenidos:
+        Mediante la instalación de una aplicación de escritorio.Mediante alguna web especializada en la sindicación de contenidos que puede ser visualizada por cualquier navegador
+      </description>
+      <guid>http://localhost:8000/html.html#2_f_ii_1</guid>
+    </item>
+    <item>
+      <title>2. Utilidades</title>
+      <link>http://localhost:8000/html.html#2_f_ii_22</link>
+      <description>
+        Contener en un único lugar contenidos -noticias, artículos. Audios, fotos, videos, etc- de todos los sitios web suscritos.Recibir la información de cada lugar sindicalizado sin tener que acudir a las fuentes originales.Proporcionan información de actualidad, pues se referencia los contenidos sindicalizados más recientes, y al tener un espacio limitado, eliminando los menos recientes.
+      </description>
+      <guid>http://localhost:8000/html.html#2_f_ii_22</guid>
+    </item>
+    <item>
+      <title>iii. Otros lenguajes basados en XML</title>
+      <link>http://localhost:8000/html.html#2_f_iii</link>
+      <description>
+
+        XUL:
+        Es un lenguaje de marcado basado en XML que se utiliza para definir interfaces de usuario complejas, en las que podemos insertar elementos básicos en el formulario, pero existen otros elementos más complejos, como menús, barras de herramientas, jerarquías o teclas de atajo.
+
+        Asimismo, permite el uso de distribuciones complejas para colocar el contenido de la interfaz.
+
+        XAML:
+        Es un lenguaje de marcas empleado para la creación de interfaces en el modelo de programación .NET Framework de Microsoft. Las aplicaciones creadas podrán ejecutarse en entornos Windows.
+
+        UIML:
+        Lenguaje de extensión del XML que promueve la creación de páginas web que puedan ser vistas en cualquier dispositivo como monitores para PC, teléfonos o PDAs. Usando las hojas de estilo UIML, el contenido web puede ser creado sin saber específicamente en qué dispositivos será visto.
+
+        XIML:
+        Es un lenguaje de desarrollo de interfaces, y su objetivo es cubrir todo el ciclo de vida del software, incluidas las fases de diseño, operación y evaluación. Por lo tanto, además de brindar la infraestructura que permita diseñar una interfaz gráfica de usuario con cierto grado de complejidad, también proporciona participación en la herramienta para todo el proceso de desarrollo.
+
+    </description>
+      <guid>http://localhost:8000/html.html#2_f_iii</guid>
+    </item>
+  </channel>
+</rss>
